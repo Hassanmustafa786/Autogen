@@ -6,7 +6,7 @@
 </h2>
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/therundownbet-funny-comedy-l4pTsNgkamxfk2ZLq" width="330"/>
+  <img src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif" width="330"/>
 </div>
 
 
